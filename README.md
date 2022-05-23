@@ -1,3 +1,4 @@
 # pipex
 https://github.com/krios-fu/pipex
-https://www.youtube.com/watch?v=6xbLgZpOBi8
+Executing comands in C: https://www.youtube.com/watch?v=uh2FqejQRk8
+dup dup2: https://www.youtube.com/watch?v=5fnVr-zH-SE
